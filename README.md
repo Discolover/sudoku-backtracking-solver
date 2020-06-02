@@ -1,2 +1,2 @@
 # sudoku-backtracking-solver
-[example](sudoku.gif)
+![example](sudoku.gif)
